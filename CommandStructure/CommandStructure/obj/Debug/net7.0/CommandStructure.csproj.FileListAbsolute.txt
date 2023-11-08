@@ -1,0 +1,5 @@
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\CommandStructure\CommandStructure\obj\Debug\net7.0\CommandStructure.csproj.AssemblyReference.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\CommandStructure\CommandStructure\obj\Debug\net7.0\CommandStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\CommandStructure\CommandStructure\obj\Debug\net7.0\CommandStructure.AssemblyInfoInputs.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\CommandStructure\CommandStructure\obj\Debug\net7.0\CommandStructure.AssemblyInfo.cs
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\CommandStructure\CommandStructure\obj\Debug\net7.0\CommandStructure.csproj.CoreCompileInputs.cache
