@@ -1,0 +1,15 @@
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\bin\Debug\net7.0\TemplateMehodDrinkingMaker.exe
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\bin\Debug\net7.0\TemplateMehodDrinkingMaker.deps.json
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\bin\Debug\net7.0\TemplateMehodDrinkingMaker.runtimeconfig.json
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\bin\Debug\net7.0\TemplateMehodDrinkingMaker.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\bin\Debug\net7.0\TemplateMehodDrinkingMaker.pdb
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\TemplateMehodDrinkingMaker.csproj.AssemblyReference.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\TemplateMehodDrinkingMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\TemplateMehodDrinkingMaker.AssemblyInfoInputs.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\TemplateMehodDrinkingMaker.AssemblyInfo.cs
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\TemplateMehodDrinkingMaker.csproj.CoreCompileInputs.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\TemplateMehodDrinkingMaker.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\refint\TemplateMehodDrinkingMaker.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\TemplateMehodDrinkingMaker.pdb
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\TemplateMehodDrinkingMaker.genruntimeconfig.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\TemplateMehodDrinkingMaker\TemplateMehodDrinkingMaker\obj\Debug\net7.0\ref\TemplateMehodDrinkingMaker.dll
