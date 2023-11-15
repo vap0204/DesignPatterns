@@ -1,0 +1,15 @@
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\bin\Debug\net7.0\2101681070_PizzaExam.exe
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\bin\Debug\net7.0\2101681070_PizzaExam.deps.json
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\bin\Debug\net7.0\2101681070_PizzaExam.runtimeconfig.json
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\bin\Debug\net7.0\2101681070_PizzaExam.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\bin\Debug\net7.0\2101681070_PizzaExam.pdb
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\2101681070_PizzaExam.csproj.AssemblyReference.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\2101681070_PizzaExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\2101681070_PizzaExam.AssemblyInfoInputs.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\2101681070_PizzaExam.AssemblyInfo.cs
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\2101681070_PizzaExam.csproj.CoreCompileInputs.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\2101681070_PizzaExam.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\refint\2101681070_PizzaExam.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\2101681070_PizzaExam.pdb
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\2101681070_PizzaExam.genruntimeconfig.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070_PizzaExam\2101681070_PizzaExam\obj\Debug\net7.0\ref\2101681070_PizzaExam.dll
