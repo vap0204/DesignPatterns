@@ -1,0 +1,15 @@
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\bin\Debug\net7.0\2101681070Menus.exe
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\bin\Debug\net7.0\2101681070Menus.deps.json
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\bin\Debug\net7.0\2101681070Menus.runtimeconfig.json
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\bin\Debug\net7.0\2101681070Menus.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\bin\Debug\net7.0\2101681070Menus.pdb
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\2101681070Menus.csproj.AssemblyReference.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\2101681070Menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\2101681070Menus.AssemblyInfoInputs.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\2101681070Menus.AssemblyInfo.cs
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\2101681070Menus.csproj.CoreCompileInputs.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\2101681070Menus.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\refint\2101681070Menus.dll
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\2101681070Menus.pdb
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\2101681070Menus.genruntimeconfig.cache
+C:\Users\Vesela Apostolova\OneDrive - Министерство на образованието и науката\Desktop\ST2\2101681070Menus\2101681070Menus\obj\Debug\net7.0\ref\2101681070Menus.dll
